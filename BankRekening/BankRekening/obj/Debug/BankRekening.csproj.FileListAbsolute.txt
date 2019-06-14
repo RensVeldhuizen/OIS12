@@ -1,0 +1,10 @@
+C:\Users\Rens\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.exe.config
+C:\Users\Rens\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.exe
+C:\Users\Rens\source\repos\BankRekening\BankRekening\bin\Debug\BankRekening.pdb
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csprojAssemblyReference.cache
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.fBankrekening.resources
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.Properties.Resources.resources
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csproj.GenerateResource.cache
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.csproj.CoreCompileInputs.cache
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.exe
+C:\Users\Rens\source\repos\BankRekening\BankRekening\obj\Debug\BankRekening.pdb
