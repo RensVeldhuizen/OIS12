@@ -1,0 +1,10 @@
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\bin\Debug\AutoDagwaarde.exe.config
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\bin\Debug\AutoDagwaarde.exe
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\bin\Debug\AutoDagwaarde.pdb
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.csprojAssemblyReference.cache
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.Form1.resources
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.Properties.Resources.resources
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.csproj.GenerateResource.cache
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.csproj.CoreCompileInputs.cache
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.exe
+C:\Users\Rens\source\repos\AutoDagwaarde\AutoDagwaarde\obj\Debug\AutoDagwaarde.pdb
