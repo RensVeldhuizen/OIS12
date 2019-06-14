@@ -1,0 +1,10 @@
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\bin\Debug\VijverVanRens.exe.config
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\bin\Debug\VijverVanRens.exe
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\bin\Debug\VijverVanRens.pdb
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.csprojAssemblyReference.cache
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.vijver.resources
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.Properties.Resources.resources
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.csproj.GenerateResource.cache
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.csproj.CoreCompileInputs.cache
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.exe
+C:\Users\Rens\source\repos\VijverVanRens\VijverVanRens\obj\Debug\VijverVanRens.pdb

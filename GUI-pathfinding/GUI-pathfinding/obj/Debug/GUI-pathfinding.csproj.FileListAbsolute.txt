@@ -1,0 +1,15 @@
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\GUI-pathfinding.exe.config
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\GUI-pathfinding.exe
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\GUI-pathfinding.pdb
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\EV3WifiLib.dll
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.csprojAssemblyReference.cache
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI_pathfinding.Pathfinding.resources
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI_pathfinding.Properties.Resources.resources
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.csproj.GenerateResource.cache
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.csproj.CopyComplete
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.exe
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\obj\Debug\GUI-pathfinding.pdb
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Rens\source\repos\GUI-pathfinding\GUI-pathfinding\bin\Debug\Newtonsoft.Json.xml
